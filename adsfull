@@ -1,1 +1,26 @@
 
+#AdsBlocker full update by mrzigo
+#Update 29-April-2025
+payload:
+  - DOMAIN-SUFFIX,samsungads.com
+  - DOMAIN-SUFFIX,analytics.pinterest.com
+  - DOMAIN-SUFFIX,browser.sentry-cdn.com
+  - DOMAIN-SUFFIX,ssl.google-analytics.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,ad.doubleclick.net
+  - DOMAIN-SUFFIX,securemetrics.apple.com
+  - DOMAIN-SUFFIX,business.samsungusa.com
+  - DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+  - DOMAIN-SUFFIX,ads.reddit.com
+  - DOMAIN-SUFFIX,d.reddit.com
+  - DOMAIN-SUFFIX,log.pinterest.com
+  - DOMAIN-SUFFIX,widgets.pinterest.com
+  - DOMAIN-SUFFIX,hotjar.com
+  - DOMAIN-SUFFIX,static.hotjar.com
+  - DOMAIN-SUFFIX,hotjar-analytics.com
+  - DOMAIN-SUFFIX,amazonaax.com
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,ads.google.com
+  - DOMAIN-SUFFIX,googleadservices.com
