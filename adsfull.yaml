@@ -1,6 +1,7 @@
 #AdsBlocker full update by mrzigo
 #Update 29-April-2025
 payload:
+  - DOMAIN-SUFFOIX,googleadservices.com
   - DOMAIN-SUFFIX,glettyproctor.top
   - DOMAIN-SUFFIX,ux.regretshansom.shop
   - DOMAIN-SUFFIX,fv.panoanmyases.top
